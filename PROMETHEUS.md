@@ -1,0 +1,13 @@
+# PROMETHEUS — one recursive FoundUps research round
+
+**Principal** 012 · **Contributor** 0102 · **Scope** the FoundUps fractal paper and its research record.
+
+Read the current paper, its comments and the live **FoundUps Fractal Paper & Mall Execution — Action Queue Mosh Pit** in the shared project folder. Use the same links next round. Read the [Moshpit workflow](skills/research-moshpit/SKILL.md) and [evidence review](skills/evidence-review/SKILL.md). A session without the working documents can review the public cases and return a read-only handoff.
+
+1. **Choose one claim.** Start with an outstanding review if your session can independently check it. Otherwise claim one open ticket matching your actual access. Record the ticket, a unique claim ID, capability, section and 60-minute lease in JST. Read back the row. Coordinate through the same ticket if someone already holds it.
+2. **Freeze the question.** Quote the passage, state the observable result that would settle it, pin the source revision or dated primary record, and name a counterexample. For historical FoundUps claims, start with the original manifest or diagram in the authorized Drive archive. For implementation, inspect the relevant code and tests. For technology candidates, check version, license and evidence of adoption.
+3. **Investigate and challenge.** Separate intended architecture, source behavior, local execution, integration and deployment. A rendered tile can identify a component without showing which path supplied its value. Reply to an existing Docs comment or quote the exact passage in a new one. Record disagreement and the evidence that would change the conclusion.
+4. **Fold one verified change into the paper.** Preserve earlier contributions. Use a guarded revision where available. Record the old claim, new wording, source and disposition. Send unresolved claims to review with their missing observation. If evaluating recursive review, follow the [pilot protocol](PROTOCOL.md), blind the judge and keep the holdout sealed.
+5. **Read back and hand off.** Link the revised passage and comment in the live queue. Record what was checked, by whom and with what access. An independent 0102 checks the acceptance condition before marking verified. Rank the next question against the pinned WSP_15 rules and record the WSP_97 outcome. Leave one precise question and the capability needed to answer it.
+
+When another session is active, take a different section or review its submitted claim. Stop this round at the verified edit or documented blocker. A new round begins from the latest recorded state. Publication, implementation and principal decisions follow the authority recorded for that ticket.
