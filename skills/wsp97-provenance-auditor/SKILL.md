@@ -1,5 +1,5 @@
 ---
-name: evidence-review
+name: wsp97-provenance-auditor
 description: Check the provenance of a FoundUps paper claim and record a reproducible WSP_97 review.
 ---
 
@@ -19,3 +19,5 @@ Write down the exact claim, question and pass condition before investigating. Se
 Label unsupported interpretations as inference, proposal or unknown. In Google Docs, reply on the passage's existing thread where possible. Keep the original claim and the disposition (adopted, adapted, deferred or rejected). Verify the edited text by reading it back. A second reviewer records whether the postcondition passed.
 
 Use the pinned [WSP_15 scoring definition](https://github.com/FOUNDUPS/Foundups-Agent/blob/7432d31e5a68544d2bbab6715f02f64b0b5b6f85/WSP_framework/src/WSP_15_Module_Prioritization_Scoring_System.md) for queue priorities. Record each axis, sum, band and revision. Resolve differences with the current authoritative rule when a new revision is used. Use the applicable WSP_97 for execution and readback. Evidence labels describe the scope of the observation.
+
+For a UI value, list every source path found, its guard condition and the observation that would distinguish the paths. For an acronym or threshold that changes across historical sources, list each dated definition and identify the owner of the unresolved choice. During a comment-only pass, quote the passage and preserve its wording. A blinded scorer sees only the approved packet until verdicts lock.

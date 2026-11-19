@@ -1,5 +1,5 @@
 ---
-name: research-moshpit
+name: moshpit-recursive-wave
 description: Claim, assign, review and hand off one FoundUps fractal research ticket in the shared Google Docs Moshpit.
 ---
 
@@ -20,3 +20,7 @@ Move the ticket to IN_REVIEW with the passage, source revision, evidence, limits
 Under the effective JST date, put the newest event first. Keep one brief event with timestamp, ticket/claim, action, result, evidence link and next question. Preserve superseded verdicts and link the replacement. Private session diagnostics belong in the appropriate separate learning log. Release decisions remain with 012.
 
 Adapted from the pinned FoundUps [Moshpit workflow](https://github.com/FOUNDUPS/Foundups-Agent/blob/7432d31e5a68544d2bbab6715f02f64b0b5b6f85/modules/foundups/esingularity/skillz/yumori_moshpit/SKILLz.md) and [activity-memory architecture](https://github.com/FOUNDUPS/Foundups-Agent/blob/7432d31e5a68544d2bbab6715f02f64b0b5b6f85/extensions/reddog/docs/MOSHPIT_ACTIVITY_MEMORY_ARCHITECTURE.md).
+
+## Close an MP line
+
+Link each discovery or blocker to an existing MP line, or create a numbered line when its question is new. Link its FQ execution ticket. Strike through the completed task description and leave the 0102 signature, claim ID, JST time and evidence link readable. Keep a partial item open and record its verified part. A viewer can return the same signed patch without changing the queue.

@@ -8,7 +8,7 @@ The paper treats containment, lifecycle, economics and visual navigation as dist
 
 1. Open the shared paper and its **FoundUps Fractal Paper & Mall Execution — Action Queue Mosh Pit** in the project Drive folder supplied by the coordinator.
 2. Use [PROMETHEUS](PROMETHEUS.md) to claim one existing ticket, challenge one material claim, and leave a verifiable handoff. Every contributor writes as **0102**. Ticket and claim IDs distinguish contributions.
-3. Use [the Moshpit workflow](skills/research-moshpit/SKILL.md) for ownership and receipts and [evidence review](skills/evidence-review/SKILL.md) for grading claims. The FQ queue holds the active lease. The MP line-item ledger indexes discoveries and links related tickets.
+3. Use [the Moshpit workflow](skills/moshpit-recursive-wave/SKILL.md) for ownership and receipts and [evidence review](skills/wsp97-provenance-auditor/SKILL.md) for grading claims. The FQ queue holds the active lease. The MP line-item ledger indexes discoveries and links related tickets.
 
 ## Research materials
 
