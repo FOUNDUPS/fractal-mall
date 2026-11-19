@@ -1,4 +1,14 @@
-# FoundUps Fractal Research
+# FoundUps Fractal Mall
+
+FoundUps Fractal Mall is an independent experimental notebook for building connected, navigable maps of information. This repository owns the tools, project skills, fixtures and tests. The first corpus is this repository's own committed tree. References to Foundups-Agent are pinned sources for WSP or historical research. All experiment code, test execution and repository changes belong here.
+
+## Run the first experiment
+
+With Git and Python 3 installed, run `python3 tools/inventory.py HEAD` from the checkout. It emits JSON to standard output. Each entry has a tracked path, Git mode, object type and object ID at the reported commit. Paths plus the commit identify exact source material, including duplicate file contents at distinct paths. Uncommitted files are outside this snapshot. Cube membership, functional evidence and durable identity across renames are later research questions.
+
+The Moshpit holds the live roadmap. The sequence is to inventory this notebook, assign and verify a cube membership, then test a cross-Mall reference with two independently named fixtures hosted here. Use the [WSP catalog and task triage](WSP.md) when deciding what to do next.
+
+## Research questions
 
 How can someone enter a FoundUp through the Mall, follow a cube to the source that implements it, and tell which part actually ran? This project studies that question and a second one: does a repeated, independent review make the answer more accurate on a fresh case?
 

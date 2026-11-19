@@ -7,6 +7,10 @@ description: Claim, assign, review and hand off one FoundUps fractal research ti
 
 The Action Queue Mosh Pit owns live work. The manuscript owns prose, sources and substantive review. GitHub owns public, revisioned methods and cleared evidence. Give each task one persistent FQ identifier. Use cross-links when a task also appears as a Mall tile.
 
+## Triage a discovery
+
+Apply the [notebook WSP catalog and triage](../../WSP.md). Record capability, write target, dependency, acceptance evidence and WSP_15 rationale on the live Moshpit entry. Choose do, route, defer or ask 012. Use `FOUNDUPS/fractal-mall` for experiment builds and fixtures. A request to edit or integrate an upstream system stays deferred pending separate scope.
+
 ## Claim and assign
 
 Read the current task row and open comments. A proposed assignment names a capability lane. The session accepting it signs **0102**, adds its short claim ID, claim time, expiry (60 minutes in JST), concrete deliverable and acceptance condition. Move OPEN to CLAIMED with a revision guard if available and read back ownership. On conflict, refresh before changing the row. If a lease has expired, check for intervening work and log reassignment while preserving prior contributions.
