@@ -1,0 +1,4 @@
+scope = preview
+open_policy = muted
+caption_policy = source-track
+transport = local

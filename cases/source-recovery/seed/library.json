@@ -1,0 +1,6 @@
+{
+  "component.shared-player": {
+    "path": "components/player.rules",
+    "selectors": {"scope": 1, "opening": 2, "captions": 3}
+  }
+}

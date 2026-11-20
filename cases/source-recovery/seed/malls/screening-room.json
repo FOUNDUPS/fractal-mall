@@ -1,0 +1,5 @@
+{
+  "mall": "mall.screening-room",
+  "caller": {"tile": "programme", "lens": "audience", "scroll": 112},
+  "links": {"screen": "component.shared-player"}
+}
