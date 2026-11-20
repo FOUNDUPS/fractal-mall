@@ -1,0 +1,294 @@
+{
+  "callers": [
+    {
+      "back": {
+        "lens": "source",
+        "mall": "mall.studio",
+        "scroll": 420,
+        "tile": "workbench"
+      },
+      "caller": {
+        "lens": "source",
+        "mall": "mall.studio",
+        "scroll": 420,
+        "tile": "workbench"
+      },
+      "caller_revision": "796e1807b892a2925c1f47b10ec2a6a5601fd433",
+      "target": {
+        "blob": "e1e2b7b785d5c4de96031d559dfb511f66446429",
+        "component": "component.shared-player",
+        "path": "components/player.rules"
+      }
+    },
+    {
+      "back": {
+        "lens": "audience",
+        "mall": "mall.screening-room",
+        "scroll": 112,
+        "tile": "programme"
+      },
+      "caller": {
+        "lens": "audience",
+        "mall": "mall.screening-room",
+        "scroll": 112,
+        "tile": "programme"
+      },
+      "caller_revision": "a38256f7e286f3113d30ce815b2114ecfb4de283",
+      "target": {
+        "blob": "e1e2b7b785d5c4de96031d559dfb511f66446429",
+        "component": "component.shared-player",
+        "path": "components/player.rules"
+      }
+    }
+  ],
+  "handoff": {
+    "anchors": {
+      "captions": {
+        "line": 3,
+        "sha256": "17eb7d23e55f02af5d2e8b8b7c9117470672b112c4a18565ccbf17c9930c742b"
+      },
+      "opening": {
+        "line": 2,
+        "sha256": "3f3250d2ef665bf133ffb8d997d733d32c4e02481fdbef7f820e2983b3e55b39"
+      },
+      "scope": {
+        "line": 1,
+        "sha256": "72ba208fe962838016f90906d748035e897e496c3dbb459abcb4d0940251cedf"
+      }
+    },
+    "blob": "e1e2b7b785d5c4de96031d559dfb511f66446429",
+    "component": "component.shared-player",
+    "mode": "100644",
+    "path": "components/player.rules",
+    "revision": "796e1807b892a2925c1f47b10ec2a6a5601fd433"
+  },
+  "schema": 1,
+  "unresolved_target": {
+    "target": null,
+    "trail_unchanged": true
+  },
+  "variants": {
+    "context": {
+      "all_declared_inputs_match": {
+        "caption-note": true,
+        "opening-note": true,
+        "preview-opening-note": false
+      },
+      "anchors": {
+        "captions": {
+          "lines": [
+            3
+          ],
+          "old_position_matches": true,
+          "status": "unique"
+        },
+        "opening": {
+          "lines": [
+            2
+          ],
+          "old_position_matches": true,
+          "status": "unique"
+        },
+        "scope": {
+          "lines": [],
+          "old_position_matches": false,
+          "status": "absent"
+        }
+      },
+      "blob_identical": false,
+      "commit": "e3757f683a5d1b3c1d49f01f4b60d46462371aba",
+      "path": "components/player.rules"
+    },
+    "delete": {
+      "all_declared_inputs_match": {
+        "caption-note": false,
+        "opening-note": false,
+        "preview-opening-note": false
+      },
+      "anchors": {
+        "captions": {
+          "lines": [],
+          "old_position_matches": false,
+          "status": "missing-file"
+        },
+        "opening": {
+          "lines": [],
+          "old_position_matches": false,
+          "status": "missing-file"
+        },
+        "scope": {
+          "lines": [],
+          "old_position_matches": false,
+          "status": "missing-file"
+        }
+      },
+      "blob_identical": false,
+      "commit": "c337f4ff5686189940b9304ba9ec22c3e9e495c2",
+      "path": "components/player.rules"
+    },
+    "duplicate": {
+      "all_declared_inputs_match": {
+        "caption-note": true,
+        "opening-note": false,
+        "preview-opening-note": false
+      },
+      "anchors": {
+        "captions": {
+          "lines": [
+            3
+          ],
+          "old_position_matches": true,
+          "status": "unique"
+        },
+        "opening": {
+          "lines": [
+            2,
+            5
+          ],
+          "old_position_matches": true,
+          "status": "ambiguous"
+        },
+        "scope": {
+          "lines": [
+            1
+          ],
+          "old_position_matches": true,
+          "status": "unique"
+        }
+      },
+      "blob_identical": false,
+      "commit": "2e8bedc93d66d6715b79d526d07ccf4da4ad364f",
+      "path": "components/player.rules"
+    },
+    "edit": {
+      "all_declared_inputs_match": {
+        "caption-note": true,
+        "opening-note": false,
+        "preview-opening-note": false
+      },
+      "anchors": {
+        "captions": {
+          "lines": [
+            3
+          ],
+          "old_position_matches": true,
+          "status": "unique"
+        },
+        "opening": {
+          "lines": [],
+          "old_position_matches": false,
+          "status": "absent"
+        },
+        "scope": {
+          "lines": [
+            1
+          ],
+          "old_position_matches": true,
+          "status": "unique"
+        }
+      },
+      "blob_identical": false,
+      "commit": "0b2cd02fa5fb98b7a864a1353a301574bb53a372",
+      "path": "components/player.rules"
+    },
+    "insert": {
+      "all_declared_inputs_match": {
+        "caption-note": true,
+        "opening-note": true,
+        "preview-opening-note": true
+      },
+      "anchors": {
+        "captions": {
+          "lines": [
+            4
+          ],
+          "old_position_matches": false,
+          "status": "unique"
+        },
+        "opening": {
+          "lines": [
+            3
+          ],
+          "old_position_matches": false,
+          "status": "unique"
+        },
+        "scope": {
+          "lines": [
+            2
+          ],
+          "old_position_matches": false,
+          "status": "unique"
+        }
+      },
+      "blob_identical": false,
+      "commit": "8d6ea61d2d3088f6792b0cea425d4b04b8c860e1",
+      "path": "components/player.rules"
+    },
+    "original": {
+      "all_declared_inputs_match": {
+        "caption-note": true,
+        "opening-note": true,
+        "preview-opening-note": true
+      },
+      "anchors": {
+        "captions": {
+          "lines": [
+            3
+          ],
+          "old_position_matches": true,
+          "status": "unique"
+        },
+        "opening": {
+          "lines": [
+            2
+          ],
+          "old_position_matches": true,
+          "status": "unique"
+        },
+        "scope": {
+          "lines": [
+            1
+          ],
+          "old_position_matches": true,
+          "status": "unique"
+        }
+      },
+      "blob_identical": true,
+      "commit": "796e1807b892a2925c1f47b10ec2a6a5601fd433",
+      "path": "components/player.rules"
+    },
+    "rename": {
+      "all_declared_inputs_match": {
+        "caption-note": true,
+        "opening-note": true,
+        "preview-opening-note": true
+      },
+      "anchors": {
+        "captions": {
+          "lines": [
+            3
+          ],
+          "old_position_matches": false,
+          "status": "unique"
+        },
+        "opening": {
+          "lines": [
+            2
+          ],
+          "old_position_matches": false,
+          "status": "unique"
+        },
+        "scope": {
+          "lines": [
+            1
+          ],
+          "old_position_matches": false,
+          "status": "unique"
+        }
+      },
+      "blob_identical": true,
+      "commit": "a0ae07c10bb7b196ee77dba6a2abacd4a5627c2a",
+      "path": "components/playback.rules"
+    }
+  }
+}

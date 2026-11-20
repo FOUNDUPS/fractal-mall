@@ -1,0 +1,5 @@
+{
+  "mall": "mall.studio",
+  "caller": {"tile": "workbench", "lens": "source", "scroll": 420},
+  "links": {"screen": "component.shared-player", "missing": "component.unregistered"}
+}

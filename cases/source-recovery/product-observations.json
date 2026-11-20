@@ -1,0 +1,18 @@
+{
+  "observation_cutoff_utc": "2026-11-20T06:44:00Z",
+  "evidence_type": "Aggregate readback of a local product candidate. Publicly inspectable product source is linked in the manuscript. Raw scoped graph exports and browser recordings are outside this public dataset.",
+  "product_census_revision": "7432d31e5a68544d2bbab6715f02f64b0b5b6f85",
+  "product_contract_revision": "06d0d81339a70851f641509c5b58c6cf791da668",
+  "local_candidate_revision": "3527dfb61b176f71f639217a89d8f3b38cd339d0",
+  "census": {"tracked_entries_including_one_gitlink": 11725, "mapped_paths": 11721, "declared_exclusions": 4, "unclassified": 0},
+  "projections": {
+    "architect": {"sha256": "3866c6d3c4bbd6e4ab808cc580a9948dd7485a43b6915c0b7f0363cbc6212898", "reachable_tiles": 561, "total_tiles": 561, "eligible_mapped_paths": 11721, "primary_exact_paths": 105, "any_url_field_exact_paths": 107},
+    "public": {"sha256": "b4cad266eda6b4fa8e2abd96070d4d5460f6bb91d64ff3f6d26ca9630b489151", "reachable_tiles": 465, "total_tiles": 465, "eligible_mapped_paths": 10443, "primary_exact_paths": 85, "any_url_field_exact_paths": 87}
+  },
+  "local_chromium_repeated_targets": [
+    {"viewport_css_px": [1440, 900], "exact_file_hits": 0, "exact_file_targets": 3, "back_correct": 2, "caller_cases": 2, "restored_fields": 6, "checked_fields": 6},
+    {"viewport_css_px": [390, 844], "exact_file_hits": 0, "exact_file_targets": 3, "back_correct": 2, "caller_cases": 2, "restored_fields": 6, "checked_fields": 6}
+  ],
+  "earlier_separate_observation": {"ordinary_exact_file_hits": 0, "ordinary_targets": 5, "benchmark_pinned_link_succeeded": true},
+  "scope": "Owner mapping, unique exact-source links and successful journeys have different denominators. The same three targets were repeated across viewports. Independent reproduction of the sealed product inputs and production deployment are outside these data."
+}
