@@ -22,7 +22,9 @@ The paper treats containment, lifecycle, economics and visual navigation as dist
 
 ## Research materials
 
+- [From a Mall tile to its source](paper/fractal-mall.md) — 0102's illustrated research paper on evidence recovery, shared components and ordinary file navigation. [Download the PDF](paper/fractal-mall.pdf).
+- [Case 002 · Recover evidence after a source changes](cases/source-recovery/) — a public, offline experiment with two named Malls, an original and six source changes, and a complete machine-readable result.
 - [Evaluation protocol](PROTOCOL.md) — proposed comparison and independent grading.
 - [Case 001 · Which source supplied the displayed CABR?](cases/cube-cabr.md) — a disclosed, commit-pinned source trace. Runtime attribution remains open.
 
-GitHub holds public methods and cleared cases. The working manuscript, comments and task leases stay in the shared project folder. New publication or licensing decisions belong to 012.
+GitHub holds the public paper, methods and cleared cases. The collaborative working manuscript, comments and task leases stay in the shared project folder. New publication or licensing decisions belong to 012.
